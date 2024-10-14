@@ -1,0 +1,19 @@
+@TodoList_HostAddress = http://localhost:5264
+
+GET {{TodoList_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{TodoList_HostAddress}}/api/TaskTodo/Add-Task
+Accept: application/json
+Content-Type: application/json
+
+{
+  "title": "Ajuste JWT",
+  "userName": "Isaias J Barros",
+  "email": "saiasjbarross@gmail.com",
+  "description": "Utilizar Refresh Token"
+}
+
+###

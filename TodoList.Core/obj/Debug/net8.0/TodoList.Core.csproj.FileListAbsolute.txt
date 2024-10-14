@@ -1,0 +1,12 @@
+C:\CSharpLearning\TodoList.Core\bin\Debug\net8.0\TodoList.Core.deps.json
+C:\CSharpLearning\TodoList.Core\bin\Debug\net8.0\TodoList.Core.dll
+C:\CSharpLearning\TodoList.Core\bin\Debug\net8.0\TodoList.Core.pdb
+C:\CSharpLearning\TodoList.Core\obj\Debug\net8.0\TodoList.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpLearning\TodoList.Core\obj\Debug\net8.0\TodoList.Core.AssemblyInfoInputs.cache
+C:\CSharpLearning\TodoList.Core\obj\Debug\net8.0\TodoList.Core.AssemblyInfo.cs
+C:\CSharpLearning\TodoList.Core\obj\Debug\net8.0\TodoList.Core.csproj.CoreCompileInputs.cache
+C:\CSharpLearning\TodoList.Core\obj\Debug\net8.0\TodoList.Core.dll
+C:\CSharpLearning\TodoList.Core\obj\Debug\net8.0\refint\TodoList.Core.dll
+C:\CSharpLearning\TodoList.Core\obj\Debug\net8.0\TodoList.Core.pdb
+C:\CSharpLearning\TodoList.Core\obj\Debug\net8.0\ref\TodoList.Core.dll
+C:\CSharpLearning\TodoList.Core\obj\Debug\net8.0\TodoList.Core.csproj.AssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\CSharpLearning\TodoList.Application\bin\Debug\net8.0\TodoList.Application.deps.json
+C:\CSharpLearning\TodoList.Application\bin\Debug\net8.0\TodoList.Application.dll
+C:\CSharpLearning\TodoList.Application\bin\Debug\net8.0\TodoList.Application.pdb
+C:\CSharpLearning\TodoList.Application\bin\Debug\net8.0\TodoList.Core.dll
+C:\CSharpLearning\TodoList.Application\bin\Debug\net8.0\TodoList.Infrastructure.dll
+C:\CSharpLearning\TodoList.Application\bin\Debug\net8.0\TodoList.Core.pdb
+C:\CSharpLearning\TodoList.Application\bin\Debug\net8.0\TodoList.Infrastructure.pdb
+C:\CSharpLearning\TodoList.Application\obj\Debug\net8.0\TodoList.Application.csproj.AssemblyReference.cache
+C:\CSharpLearning\TodoList.Application\obj\Debug\net8.0\TodoList.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpLearning\TodoList.Application\obj\Debug\net8.0\TodoList.Application.AssemblyInfoInputs.cache
+C:\CSharpLearning\TodoList.Application\obj\Debug\net8.0\TodoList.Application.AssemblyInfo.cs
+C:\CSharpLearning\TodoList.Application\obj\Debug\net8.0\TodoList.Application.csproj.CoreCompileInputs.cache
+C:\CSharpLearning\TodoList.Application\obj\Debug\net8.0\TodoList.3DAAE8D2.Up2Date
+C:\CSharpLearning\TodoList.Application\obj\Debug\net8.0\TodoList.Application.dll
+C:\CSharpLearning\TodoList.Application\obj\Debug\net8.0\refint\TodoList.Application.dll
+C:\CSharpLearning\TodoList.Application\obj\Debug\net8.0\TodoList.Application.pdb
+C:\CSharpLearning\TodoList.Application\obj\Debug\net8.0\ref\TodoList.Application.dll
